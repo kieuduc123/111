@@ -1,0 +1,184 @@
+*{
+    box-sizing: border-box;
+
+}
+
+p{
+    font-size: 16px;
+    color: grey;
+}
+
+body{
+    background-color: #fff;
+    font-size: 14px;
+    line-height: 1.4286;
+    padding: 6px;
+    margin: 96px 450px 13px 450px;
+    
+}
+
+
+.head img{
+    width: 120px;
+    padding: 10px 10px;
+    margin: 10px -9px -25px -8px;
+}
+
+.images img
+{
+    width: 244px;
+    padding: 10px 10px;
+}
+
+.images{
+    text-align: center;
+    flex: 1;
+}
+
+.header{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.register__1{
+    display: inline-flex;
+}
+
+.register__4{
+    display: inline-flex;
+}
+
+.register__6{
+    display: inline-flex;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 340px;
+    padding: -2px;
+    height: 250px;
+}
+
+.footer .right{
+    display: flex;
+
+
+}
+
+.main{
+    border: none;
+    box-sizing: border-box;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    padding: 106px 5px;
+    width: 800px;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    margin: -104px 17px 53px 28px;
+    padding: 2px 8px 62px 0px;
+
+}
+
+.register__3 a{
+    text-decoration: none;
+}
+
+.foot
+{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 27px;
+    margin-right: 408px;
+}
+
+.head p{
+    font-size: 26px;
+}
+
+.sign{
+    outline: none;
+    border: none;
+    background-color: #fff;
+    color: #1a73e8;
+    font-size: 16px;
+
+}
+.next{
+    background-color: #1a73e8;
+    color: #fff;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    width: 102px;
+    height: 36px;
+    opacity: .9;
+    cursor: pointer;
+}
+
+.next:hover{
+    opacity: 1;
+}
+
+.fname{
+    width: 170px;
+    margin-right: 10px;
+    font-size: 16px;
+    pointer-events: none;
+
+}
+
+.lname{
+    width: 170px;
+    font-size: 16px;
+
+}
+
+.uname{
+    margin-top: 15px;
+    width: 350px;
+    text-align: right;
+    font-size: 16px;
+}
+
+.pass{
+    width: 170px;
+    margin-right: 10px;
+    font-size: 16px;
+
+}
+.register__3{
+    margin: 0px 0px 5px 0px;
+}
+.cfpass{
+    width: 170px;
+    font-size: 16px;
+
+}
+
+.check{
+    margin: 0px 14px 0px 0px;
+    height: 20px;
+    margin-top: 14px;
+}
+
+.right1{
+    margin-right: 10px;
+}
+
+.right2{
+    margin-right: 10px;
+}
+.right{
+    display: flex;
+    margin-right: 500px;
+
+}
+
+
+
